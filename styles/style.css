@@ -126,6 +126,16 @@ hr {
     color: #AEAEAE
 }
 
+.courses-duration {
+    border: 1px solid rgb(214, 16, 82);
+    background-color: rgb(240, 163, 189);
+    border-radius: 15px;
+    padding-right: 6px;
+    padding-left: 6px;
+    color: rgb(196, 70, 91);
+    margin-right: 25px;
+}
+
 /*--------------------------------------
               Media Queries
 --------------------------------------*/
